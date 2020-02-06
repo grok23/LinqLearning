@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqLearning", "LinqLearning\LinqLearning.csproj", "{3F7DAF2F-775C-4587-8C69-DBED2C608AE4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqQ1", "LinqLearning\LinqQ1.csproj", "{3F7DAF2F-775C-4587-8C69-DBED2C608AE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqQ2", "LinqQ2\LinqQ2.csproj", "{18175099-9DBF-4255-A8D4-D82873BBA3DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqQ3", "LinqQ3\LinqQ3.csproj", "{3D4BE310-73B1-470D-97C0-D42A96D6B264}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{3F7DAF2F-775C-4587-8C69-DBED2C608AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F7DAF2F-775C-4587-8C69-DBED2C608AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F7DAF2F-775C-4587-8C69-DBED2C608AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18175099-9DBF-4255-A8D4-D82873BBA3DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18175099-9DBF-4255-A8D4-D82873BBA3DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18175099-9DBF-4255-A8D4-D82873BBA3DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18175099-9DBF-4255-A8D4-D82873BBA3DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D4BE310-73B1-470D-97C0-D42A96D6B264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4BE310-73B1-470D-97C0-D42A96D6B264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4BE310-73B1-470D-97C0-D42A96D6B264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4BE310-73B1-470D-97C0-D42A96D6B264}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
